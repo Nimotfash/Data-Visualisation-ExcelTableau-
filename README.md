@@ -4,7 +4,9 @@ Policies & Procedures; the privacy and security ofpersonal data. International t
 Setting of Password; The policy and procedure implement systems that prompt staff to change their password at least every six months. Rickard adds that password policies should also warn, Employees  are advise about writing their passwords down. “One of the easiest ways to breach a company is to put somebody on the janitorial staff and go looking at desks. People often have post-it notes on monitors with passwords on them.
 creating a chart that will display the following data ‘Rank, Country, and GDP - per capita (PPP). 
 Creating a document and setting a relationship between the data.
-Creating four Visuals
-![dashboard](https://public.tableau.com/app/profile/nimotalai.fasola/viz/FIRSTDASHBOARD-27-04-2023/Dashboard1?publish)
+![Capture first visua](https://github.com/Nimotfash/Wendy/assets/136696913/80353680-e45b-44c1-a2c8-058d7918aa93)
+
+
+
 
 
